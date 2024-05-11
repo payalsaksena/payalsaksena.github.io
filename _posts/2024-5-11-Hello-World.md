@@ -9,9 +9,26 @@ tags: [T1, T2]
 ## Heading 2
 
 Here is a list:
+
 qwwhqgehqgwhejd
+
 qwegfjhgqwgehjg
+
 qwhgeqjhwge
+
+* Item 1
+* Item 2
+* Item 3
+     * Item 3.1
+     * Item 3.2
+
+1. A
+2. B
+3. C
+      * q
+      * w
+      * e
+
 
 ### Heading 3
 

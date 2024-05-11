@@ -32,6 +32,17 @@ qwhgeqjhwge
 
 ### Heading 3
 
+This **word** is in bold
+
+This *Word* is in italics 
+
+Click [here](google.co.in) to go to google.
+
+
+
+
+
+
 #### Heading 4
 ##### Heading 5
 

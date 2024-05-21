@@ -10,11 +10,11 @@ I am a development sector/ legal professional with over 16 years of experience i
 
 ## Academic Qualifications
 
-* Post Graduate Diploma in Human Rights, Humanitarian Law and Refugee Law from Indian Society of International Law, New Delhi. 2002
+* Post Graduate Diploma in Human Rights, Humanitarian Law and Refugee Law from Indian Society of International Law, New Delhi. 
   
-* Bachelor of Laws (LLB) from University of Delhi. 2001
+* Bachelor of Laws (LLB) from University of Delhi. 
   
-* Bachelor of Arts (Hons) in English Literature from University of Delhi. 1998
+* Bachelor of Arts (Hons) in English Literature from University of Delhi. 
 
 ## Professional Experience
 
@@ -157,17 +157,7 @@ Law Officer & Panel Lawyer: Women’s Rights Initiative
 
    * Delap, E.,(2011) Scaling down. Family for Every Child, UK. (Reference Group member)
 
-   * Pai, M., & Family for Every Child (2013) Consultations with children on their priorities for the post MDG framework. Family for Every Child, UK. (Research Coordinator)
-
-   * Saksena, P., (2011) Research on accessibility and impact of Sponsorship Scheme in Karnataka under the Juvenile Justice (Care and Protection of Children Act) 2000. EveryChild India. (Author)
-
-   * Saksena, P., (2010) Manual on Participatory Vulnerability Assessment. EveryChild India. (Author)
-
-   * Cox, S., Dyer, C., Robinson-Pant, A., Schweisfurth, M., (2009) Children as Decision Makers in Education: Sharing Experiences across Cultures. (Chapter contributor)
-
-   * Mogilishetty, D., Eapen, R., Srivastava, A., Saksena, P., (2007) Facilitator’s Guide on Community Legal Education on Women’s Rights in India. Global Rights: Partners for Justice, USA. English, Hindi, Kannada. (Co-Author)
-
-   * Saksena, P., Legal Booklets in Hindi on Personal Laws and Fundamental Rights. (2006-07). Prayatn, Rajasthan, India. (Author) 
+   * Pai, M., & Family for Every Child (2013) Consultations with children on 
 
 ## Language Proficiency 
 
